@@ -1,10 +1,9 @@
 # llSPS-INT-1951-Predicting-Life-Expectancy-using-Machine-Learning
 Predicting Life Expectancy using Machine Learning
-Predicting Life Expectancy using Machine Learning
 
-Project Summary Our aim is to predict the life expectancy of a person of a given country considering a number of factors like sex differences, mental illnesses, etc. The data set provides us with a number of factors which could be considered to make this prediction.
+Project Summary: Our project is to predict the life expectancy of a person of a given country considering a number of factors like sex differences, mental illnesses, etc. The data set provides us with a number of factors which could be considered to make this prediction.
 
-Project Requirements The project requires the data set, Python, IBM Watson Studio, IBM Cloud as well as Node Red.
+Project Requirements: Data set, Python, IBM Watson Studio, Node Red & IBM Cloud.
 
 Functional Requirements The project is required to make the prediction of life expectancy. Moreover, it has perform data pre-processing and data analysis to make sure that accuracy could be achieved.
 
